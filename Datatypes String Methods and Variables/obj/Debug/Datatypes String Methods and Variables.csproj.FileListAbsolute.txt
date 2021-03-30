@@ -1,0 +1,7 @@
+F:\C--Udemy-class\Datatypes String Methods and Variables\bin\Debug\Datatypes String Methods and Variables.exe.config
+F:\C--Udemy-class\Datatypes String Methods and Variables\bin\Debug\Datatypes String Methods and Variables.exe
+F:\C--Udemy-class\Datatypes String Methods and Variables\bin\Debug\Datatypes String Methods and Variables.pdb
+F:\C--Udemy-class\Datatypes String Methods and Variables\obj\Debug\Datatypes String Methods and Variables.csprojAssemblyReference.cache
+F:\C--Udemy-class\Datatypes String Methods and Variables\obj\Debug\Datatypes String Methods and Variables.csproj.CoreCompileInputs.cache
+F:\C--Udemy-class\Datatypes String Methods and Variables\obj\Debug\Datatypes String Methods and Variables.exe
+F:\C--Udemy-class\Datatypes String Methods and Variables\obj\Debug\Datatypes String Methods and Variables.pdb
