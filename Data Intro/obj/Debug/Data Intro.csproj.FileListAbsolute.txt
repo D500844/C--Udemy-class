@@ -1,0 +1,7 @@
+F:\C--Udemy-class\Data Intro\obj\Debug\Data Intro.csprojAssemblyReference.cache
+F:\C--Udemy-class\Data Intro\obj\Debug\Data Intro.csproj.CoreCompileInputs.cache
+F:\C--Udemy-class\Data Intro\bin\Debug\Data Intro.exe.config
+F:\C--Udemy-class\Data Intro\bin\Debug\Data Intro.exe
+F:\C--Udemy-class\Data Intro\bin\Debug\Data Intro.pdb
+F:\C--Udemy-class\Data Intro\obj\Debug\Data Intro.exe
+F:\C--Udemy-class\Data Intro\obj\Debug\Data Intro.pdb

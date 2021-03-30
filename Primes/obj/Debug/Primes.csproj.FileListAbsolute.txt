@@ -1,0 +1,7 @@
+F:\C--Udemy-class\Primes\bin\Debug\Primes.exe.config
+F:\C--Udemy-class\Primes\bin\Debug\Primes.exe
+F:\C--Udemy-class\Primes\bin\Debug\Primes.pdb
+F:\C--Udemy-class\Primes\obj\Debug\Primes.csprojAssemblyReference.cache
+F:\C--Udemy-class\Primes\obj\Debug\Primes.csproj.CoreCompileInputs.cache
+F:\C--Udemy-class\Primes\obj\Debug\Primes.exe
+F:\C--Udemy-class\Primes\obj\Debug\Primes.pdb

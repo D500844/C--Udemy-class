@@ -1,0 +1,7 @@
+F:\C--Udemy-class\Explore2\bin\Debug\Explore2.exe.config
+F:\C--Udemy-class\Explore2\bin\Debug\Explore2.exe
+F:\C--Udemy-class\Explore2\bin\Debug\Explore2.pdb
+F:\C--Udemy-class\Explore2\obj\Debug\Explore2.csprojAssemblyReference.cache
+F:\C--Udemy-class\Explore2\obj\Debug\Explore2.csproj.CoreCompileInputs.cache
+F:\C--Udemy-class\Explore2\obj\Debug\Explore2.exe
+F:\C--Udemy-class\Explore2\obj\Debug\Explore2.pdb
