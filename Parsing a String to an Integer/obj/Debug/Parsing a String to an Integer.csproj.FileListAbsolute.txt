@@ -1,0 +1,7 @@
+F:\C--Udemy-class\Parsing a String to an Integer\bin\Debug\Parsing a String to an Integer.exe.config
+F:\C--Udemy-class\Parsing a String to an Integer\bin\Debug\Parsing a String to an Integer.exe
+F:\C--Udemy-class\Parsing a String to an Integer\bin\Debug\Parsing a String to an Integer.pdb
+F:\C--Udemy-class\Parsing a String to an Integer\obj\Debug\Parsing a String to an Integer.csprojAssemblyReference.cache
+F:\C--Udemy-class\Parsing a String to an Integer\obj\Debug\Parsing a String to an Integer.csproj.CoreCompileInputs.cache
+F:\C--Udemy-class\Parsing a String to an Integer\obj\Debug\Parsing a String to an Integer.exe
+F:\C--Udemy-class\Parsing a String to an Integer\obj\Debug\Parsing a String to an Integer.pdb
