@@ -1,0 +1,7 @@
+F:\C--Udemy-class\Intro to Function and Methods\bin\Debug\Intro to Function and Methods.exe.config
+F:\C--Udemy-class\Intro to Function and Methods\bin\Debug\Intro to Function and Methods.exe
+F:\C--Udemy-class\Intro to Function and Methods\bin\Debug\Intro to Function and Methods.pdb
+F:\C--Udemy-class\Intro to Function and Methods\obj\Debug\Intro to Function and Methods.csprojAssemblyReference.cache
+F:\C--Udemy-class\Intro to Function and Methods\obj\Debug\Intro to Function and Methods.csproj.CoreCompileInputs.cache
+F:\C--Udemy-class\Intro to Function and Methods\obj\Debug\Intro to Function and Methods.exe
+F:\C--Udemy-class\Intro to Function and Methods\obj\Debug\Intro to Function and Methods.pdb
