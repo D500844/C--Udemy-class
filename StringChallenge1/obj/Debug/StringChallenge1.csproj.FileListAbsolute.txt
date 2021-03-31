@@ -1,0 +1,7 @@
+F:\C--Udemy-class\StringChallenge1\bin\Debug\StringChallenge1.exe.config
+F:\C--Udemy-class\StringChallenge1\bin\Debug\StringChallenge1.exe
+F:\C--Udemy-class\StringChallenge1\bin\Debug\StringChallenge1.pdb
+F:\C--Udemy-class\StringChallenge1\obj\Debug\StringChallenge1.csprojAssemblyReference.cache
+F:\C--Udemy-class\StringChallenge1\obj\Debug\StringChallenge1.csproj.CoreCompileInputs.cache
+F:\C--Udemy-class\StringChallenge1\obj\Debug\StringChallenge1.exe
+F:\C--Udemy-class\StringChallenge1\obj\Debug\StringChallenge1.pdb
