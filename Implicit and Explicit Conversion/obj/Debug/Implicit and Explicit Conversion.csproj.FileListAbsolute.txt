@@ -1,0 +1,7 @@
+F:\C--Udemy-class\Implicit and Explicit Conversion\bin\Debug\Implicit and Explicit Conversion.exe.config
+F:\C--Udemy-class\Implicit and Explicit Conversion\bin\Debug\Implicit and Explicit Conversion.exe
+F:\C--Udemy-class\Implicit and Explicit Conversion\bin\Debug\Implicit and Explicit Conversion.pdb
+F:\C--Udemy-class\Implicit and Explicit Conversion\obj\Debug\Implicit and Explicit Conversion.csprojAssemblyReference.cache
+F:\C--Udemy-class\Implicit and Explicit Conversion\obj\Debug\Implicit and Explicit Conversion.csproj.CoreCompileInputs.cache
+F:\C--Udemy-class\Implicit and Explicit Conversion\obj\Debug\Implicit and Explicit Conversion.exe
+F:\C--Udemy-class\Implicit and Explicit Conversion\obj\Debug\Implicit and Explicit Conversion.pdb
