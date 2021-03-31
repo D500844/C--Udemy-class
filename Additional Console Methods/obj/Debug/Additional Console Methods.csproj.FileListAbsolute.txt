@@ -1,0 +1,7 @@
+F:\C--Udemy-class\Additional Console Methods\obj\Debug\Additional Console Methods.csprojAssemblyReference.cache
+F:\C--Udemy-class\Additional Console Methods\obj\Debug\Additional Console Methods.csproj.CoreCompileInputs.cache
+F:\C--Udemy-class\Additional Console Methods\bin\Debug\Additional Console Methods.exe.config
+F:\C--Udemy-class\Additional Console Methods\bin\Debug\Additional Console Methods.exe
+F:\C--Udemy-class\Additional Console Methods\bin\Debug\Additional Console Methods.pdb
+F:\C--Udemy-class\Additional Console Methods\obj\Debug\Additional Console Methods.exe
+F:\C--Udemy-class\Additional Console Methods\obj\Debug\Additional Console Methods.pdb
