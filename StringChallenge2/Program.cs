@@ -32,7 +32,7 @@ namespace StringChallenge2
             // Concatinate the firstName and lastName variable and assign that to a fullName variable.
             string fullName = string.Concat(firstName, " ", lastName);
             // Prints the full name on the console.
-            Console.WriteLine("Your full name is {0}", fullName);
+            Console.WriteLine("Your full name is {0} and that's the bottom line", fullName);
 
             Console.ReadKey();
 
