@@ -1,0 +1,7 @@
+F:\C--Udemy-class\Logic and If Intro\bin\Debug\Logic and If Intro.exe.config
+F:\C--Udemy-class\Logic and If Intro\bin\Debug\Logic and If Intro.exe
+F:\C--Udemy-class\Logic and If Intro\bin\Debug\Logic and If Intro.pdb
+F:\C--Udemy-class\Logic and If Intro\obj\Debug\Logic and If Intro.csprojAssemblyReference.cache
+F:\C--Udemy-class\Logic and If Intro\obj\Debug\Logic and If Intro.csproj.CoreCompileInputs.cache
+F:\C--Udemy-class\Logic and If Intro\obj\Debug\Logic and If Intro.exe
+F:\C--Udemy-class\Logic and If Intro\obj\Debug\Logic and If Intro.pdb
