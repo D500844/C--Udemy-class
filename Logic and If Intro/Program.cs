@@ -14,7 +14,7 @@ namespace Logic_and_If_Intro
             string tempUserInput = Console.ReadLine();
             int temperature = int.Parse(tempUserInput);
 
-
+             
             if(temperature < 10)
             {
                 Console.WriteLine("Take the coat");
